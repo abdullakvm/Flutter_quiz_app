@@ -7,7 +7,7 @@ import 'package:quiz_app/dummy_db.dart';
 import 'package:quiz_app/view/rating_screen/rating_screen.dart';
 
 class HomepageScreen extends StatefulWidget {
-  HomepageScreen({super.key});
+  const HomepageScreen({super.key});
 
   @override
   State<HomepageScreen> createState() => _HomepageScreenState();
